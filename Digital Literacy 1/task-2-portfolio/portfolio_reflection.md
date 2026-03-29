@@ -18,4 +18,4 @@ Setting up these three platforms felt like laying the foundation for the next fo
 The most surprising insight was how much a LinkedIn profile can signal professionalism even with minimal content. Simply having the correct degree, institution, and expected graduation year listed makes the profile look credible and searchable. GitHub felt the most relevant to my AI & ML branch — I understand now that when I apply for internships, the first thing a recruiter will do is look at my GitHub to see actual work, not just a resume claim. Kaggle stood out as a unique learning tool; unlike a lecture, you learn by doing actual data analysis on real-world datasets. I plan to complete at least two Kaggle beginner courses before the end of my first year.
 
 ---
-**Screenshots:** Add screenshots of your GitHub, LinkedIn, and Kaggle profiles to this folder.
+
