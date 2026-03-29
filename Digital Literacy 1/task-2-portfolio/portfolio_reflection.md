@@ -11,7 +11,7 @@ LinkedIn is the world's largest professional networking platform. I filled in my
 ### 3. Kaggle (kaggle.com)
 Kaggle is a data science and machine learning platform with competitions, datasets, and free learning notebooks. It is directly relevant to my AI & ML specialisation.
 
-## Reflection (150–200 words)
+## Reflection
 
 Setting up these three platforms felt like laying the foundation for the next four years of my academic and professional life. Before this assignment, I had heard of LinkedIn and GitHub but had never actually set up a proper profile on either. The process was straightforward but required me to think carefully about how I want to present myself — even as a first-year student with very little experience yet.
 
